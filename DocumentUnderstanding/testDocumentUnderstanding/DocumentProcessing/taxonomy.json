@@ -75,6 +75,18 @@
           ]
         }
       ]
+    },
+    {
+      "DocumentTypeId": "NoGroup.NoCategory.DPIA",
+      "Group": "",
+      "Category": "",
+      "Name": "DPIA",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "NoGroup.NoCategory.DPIA.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": []
     }
   ],
   "Groups": [],
